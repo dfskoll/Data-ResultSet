@@ -3,7 +3,7 @@ use warnings;
 use strict;
 use 5.006;
 
-our $VERSION = '1.001';
+our $VERSION = '1.002';
 
 sub new
 {
@@ -309,11 +309,16 @@ polymorphic return values.  You may wish to use one of these instead:
 
 =head1 AUTHOR
 
-Dave O'Neill (dmo@roaringpenguin.com)
+Dave O'Neill
+
+=head1 MAINTAINER
+
+Dianne Skoll (dianne@skoll.ca)
 
 =head1 LICENCE AND COPYRIGHT
 
 Copyright (c) 2007 Roaring Penguin Software, Inc.
+Copyright (c) 2022 Dianne Skoll
 
 This program is free software; you can redistribute it and/or modify it
 under the same terms as Perl itself.
