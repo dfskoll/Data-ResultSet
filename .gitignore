@@ -11,3 +11,5 @@ cover_db
 META.yml
 MANIFEST.bak
 inc
+MYMETA.json
+MYMETA.yml
